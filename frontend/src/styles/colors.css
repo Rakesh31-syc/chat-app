@@ -1,0 +1,24 @@
+:root {
+    /* Primary Colors */
+    --primary-100: #ebf5ff;
+    --primary-500: #0066ff;
+    --primary-600: #0052cc;
+    
+    /* Neutral Colors */
+    --neutral-50: #f9fafb;
+    --neutral-100: #f3f4f6;
+    --neutral-200: #e5e7eb;
+    --neutral-700: #374151;
+    --neutral-900: #111827;
+    
+    /* Accent Colors */
+    --success: #10b981;
+    --error: #ef4444;
+    --warning: #f59e0b;
+    
+    /* UI Colors */
+    --bg-main: var(--neutral-50);
+    --bg-sidebar: var(--neutral-900);
+    --bg-message-sent: var(--primary-500);
+    --bg-message-received: var(--neutral-100);
+  }
